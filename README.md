@@ -1,2 +1,2 @@
 # hello-world
-first time create new responsitory
+hello ,i'm george gong
